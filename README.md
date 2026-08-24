@@ -1,16 +1,26 @@
-## Hi there 👋
+### Olá! 👋 Eu sou o Richard.
 
-<!--
-**rf-richard-ferreira/rf-richard-ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação, autodidata, com o objetivo de me tornar um **Engenheiro de Software com foco em Segurança de Sistemas e Dados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧭 Trilha atual de estudos
+
+**Fundamentos**
+- Lógica de programação, algoritmos e estruturas de dados — praticando resolução de problemas para desenvolver diferentes padrões de solução
+
+**Frontend**
+- HTML, CSS, JavaScript — construindo páginas interativas e responsivas, com atenção à acessibilidade
+
+**Backend**
+- Java — fixando os fundamentos de Programação Orientada a Objetos
+- Node.js — ainda não iniciado
+
+**Segurança**
+- Fundamentos de Cibersegurança — buscando entender onde e como ela se aplica durante o desenvolvimento, e como proteger dados e sistemas
+
+---
+
+#### 🌱 Em andamento
+
+Em busca de implementar meus primeiros projetos enquanto sigo estudando.
