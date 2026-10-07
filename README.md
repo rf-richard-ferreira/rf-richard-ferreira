@@ -11,7 +11,7 @@ Estudante de Ciência da Computação e autodidata, com foco em Engenharia de So
 - HTML, CSS e JavaScript: páginas interativas, responsivas e acessíveis
 
 **Backend**
-- Java: fundamentos de Programação Orientada a Objetos
+- Java: fundamentos de programação orientada a objetos
 
 **Segurança**
 - Fundamentos de cibersegurança: entender onde ela se aplica em cada etapa do desenvolvimento e como proteger dados e sistemas
