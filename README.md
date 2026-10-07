@@ -1,6 +1,6 @@
 Olá! 👋 Eu sou o Richard.
 
-Estudante de Ciência da Computação e autodidata, com foco em Engenharia de Software e **segurança de sistemas e dados**. Acredito que a segurança deve estar presente em todas as etapas do desenvolvimento de software, e é isso que busco praticar enquanto aprendo.
+Estudante de Ciência da Computação e autodidata, com foco em Engenharia de Software e segurança de sistemas e dados. Acredito que a segurança deve estar presente em todas as etapas do desenvolvimento de software, e é isso que busco praticar enquanto aprendo.
 
 ## 🧭 Trilha atual de estudos
 
